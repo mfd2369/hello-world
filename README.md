@@ -1,4 +1,4 @@
 # hello-world
 
-First github project\n
+First github project
 Hello my name is Michael Derby
